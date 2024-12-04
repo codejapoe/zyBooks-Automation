@@ -13,26 +13,26 @@ This script automatically completes all activities on zyBooks, with ability to v
 Clone the project
 
 ```bash
-  git clone https://github.com/codejapoe/zyBooks-Automation.git
+git clone https://github.com/codejapoe/zyBooks-Automation.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd zyBooks-Automation
+cd zyBooks-Automation
 ```
 
 Enter your login credentials in "cfg.py"
 
 ```bash
-  EMAIL = "example@test.com" # Email
-  PASSWORD = "12345678" # Password
+EMAIL = "example@test.com" # Email
+PASSWORD = "12345678" # Password
 ```
 
 Run the script
 
 ```bash
-  python main.py
+python main.py
 ```
 
 Press "Ctrl + C" to exit.
