@@ -9,6 +9,7 @@ This script automatically completes all activities on zyBooks, with ability to v
 - Auto completes all sections when a chapter is selected.
 
 ## Run Locally
+Install Python: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 Clone the project
 
